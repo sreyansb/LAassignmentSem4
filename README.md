@@ -1,6 +1,6 @@
 # Linear Algebra assignment for Semester.
 A repository of the codes that I built/updated with Openmp in C.
-I have copied a large part of my code from online sources. They coded it in C and then my friend [Krishna](https://github.com/krishnas2k) and I added more features and OPENMP directives to parallelise the working.
+I have copied a large part of my code from online sources. They coded it in C and then my friends [Rakshith](https://github.com/RakshithJayanth), [Krishna](https://github.com/krishnas2k) and I added more features and OPENMP directives to parallelise the working.
 
 Snapshots of the commands to run the file **gauss.c** and also check its performance is:
 
@@ -32,7 +32,7 @@ Snapshot of the commands to run the file **normalequation.c** and also check its
 
 1: ![Normal Equation 1](https://github.com/sreyansb/LAassignmentSem4/blob/master/Snapshots/normalequation1.png)
 
-A major part of this code was written by [me](https://github.com/sreyansb/LAassignmentSem4/blob/master/normalequation.c).
+A major part of this code was written by me.
 The code for the inverse of matrices was taken from [this link](https://www.sanfoundry.com/c-program-find-inverse-matrix/).
 
 Snapshot of the commands to run the file **power.c** and also check its performance is:
