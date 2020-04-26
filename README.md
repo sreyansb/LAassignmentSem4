@@ -47,4 +47,4 @@ Snapshot of the commands to run the file **rank.c** and also check its performan
 
 The idea was taken from [this book](http://www.grad.hr/nastava/gs/prg/NumericalRecipesinC.pdf).
 
-*Replace agnmtx.c with the name of the file you are running.
+*Replace agnmtx.c with the name of the file you are running.*
