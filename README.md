@@ -1,6 +1,6 @@
 # Linear Algebra assignment for Semester 4.
 A repository of the codes that I built/updated with Openmp in C.
-I have copied a large part of my code from online sources. They coded it in C and then my friends [Rakshith](https://github.com/RakshithJayanth), [Krishna](https://github.com/krishnas2k) and I added more features and OPENMP directives to parallelise the working.
+I have copied a large part of my code from online sources. They coded it in C and then my friends [Rakshith](https://github.com/RAKSHITH-JAYANTH), [Krishna](https://github.com/krishnas2k) and I added more features and OPENMP directives to parallelise the working.
 
 Snapshots of the commands to run the file **gauss.c** and also check its performance is:
 
